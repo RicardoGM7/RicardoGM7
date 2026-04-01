@@ -11,9 +11,9 @@ Tenho uma base bem desenvolvida no **Front-end**, criando interfaces modernas, r
   <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css" alt="Linguagens" />
 </p>
 
-* **Frameworks & BaaS:**
+* **Outras Tecnologias:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,firebase" alt="Frameworks e BaaS" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,git" alt="Frameworks e BaaS" />
 </p>
 
 
