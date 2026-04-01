@@ -8,12 +8,12 @@ Tenho uma base bem desenvolvida no **Front-end**, criando interfaces modernas, r
 
 * **Linguagens:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css" alt="JavaScript, TypeScript, C, C++, HTML, CSS" title="JavaScript, TypeScript, C, C++, HTML, CSS" />
 </p>
 
 * **Outras Tecnologias:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,firebase,git" alt="Frameworks e BaaS" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,git" alt="React, Firebase, Git" title="React, Firebase, Git"/>
 </p>
 
 
